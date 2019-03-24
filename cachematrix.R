@@ -1,3 +1,5 @@
+## 2019-03-24
+## CJ
 ## These functions attempt to copy what our teacher gave us
 ## for storing and returning the mean of a vector
 ## but instead return or store the inverse of a matrix
